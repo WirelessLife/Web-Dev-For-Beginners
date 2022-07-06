@@ -6,7 +6,7 @@ This lesson covers the basics of programming languages. The topics covered here 
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
-[Pre-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/1)
+[Pre-lecture quiz](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming/2-what-is-programming?WT.mc_id=academic-13441-cxa)
 
 ## Introduction
 
@@ -187,7 +187,7 @@ When a developer wants to learn something new, they'll most likely turn to docum
 Compare some programming languages. What are some of the unique traits of JavaScript vs. Java? How about COBOL vs. Go?
 
 ## Post-Lecture Quiz
-[Post-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/2)
+[Post-lecture quiz](https://docs.microsoft.com/en-us/learn/modules/web-development-101-introduction-programming/9-knowledge-check?WT.mc_id=academic-13441-cxa)
 
 ## Review & Self Study
 
